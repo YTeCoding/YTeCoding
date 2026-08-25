@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Generated outputs (rebuilt by the GitHub Action)
+out/
+merged.json

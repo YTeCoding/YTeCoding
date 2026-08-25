@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="CTF Writeups logo">
+<rect width="128" height="128" rx="28" fill="#0A101F" stroke="rgba(34,211,238,0.4)" stroke-width="2"/>
+<line x1="44" y1="100" x2="44" y2="28" stroke="#22D3EE" stroke-width="6" stroke-linecap="round"/>
+<path d="M52 32 L92 42 L52 52 Z" fill="#A78BFA"/>
+<path d="M52 32 L92 42 L52 52 Z" fill="none" stroke="#22D3EE" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="44" cy="100" r="5" fill="#10B981"/>
+</svg>
