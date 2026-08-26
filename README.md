@@ -4,6 +4,10 @@
      ===================================================================== -->
 
 ```text
+┌────────────────────────────────────────────────────────────────────────┐
+│  ●  ●  ●    ghoststx@github — zsh                               profile│
+└────────────────────────────────────────────────────────────────────────┘
+
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
 ║   ░██████╗░██╗░░██╗░█████╗░░██████╗████████╗░██████╗████████╗██╗░░██╗  ║
@@ -24,6 +28,20 @@ $ cat /etc/profile
 > Role        : Cybersecurity / CTF Player
 > Focus       : Recon · Network Analysis · Scripting
 > Status      : [ always learning ]
+```
+
+---
+
+## `./help`
+
+```text
+$ ./help
+> commands :
+
+  skills     →  toolset overview
+  projects   →  current backlog
+  contact    →  direct links
+  help       →  this list
 ```
 
 ---
@@ -70,6 +88,7 @@ $ curl -s https://ghosttempcore.vercel.app
 <a href="https://github.com/GhostStx"><kbd>GitHub</kbd></a>&nbsp;&nbsp;
 <a href="https://t.me/theattackcorebase"><kbd>Telegram</kbd></a>&nbsp;&nbsp;
 <a href="https://ghosttempcore.vercel.app"><kbd>Portfolio</kbd></a>
+<a href="https://www.linkedin.com/in/yannickg10stx"><kbd>LinkedIn</kbd></a>
 </p>
 
 ---
