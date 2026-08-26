@@ -25,7 +25,7 @@ $ whoami
 > GhostStx
 
 $ cat /etc/profile
-> Role        : Cybersecurity / CTF Player
+> Role        : Networking & Cybersecurity / CTF Player
 > Focus       : Recon · Network Analysis · Scripting
 > Status      : [ always learning ]
 ```
@@ -78,6 +78,8 @@ $ curl -s https://t.me/theattackcorebase
 ---> (Canal de veille cyber)
 $ curl -s https://ghosttempcore.vercel.app
 ---> (Portfolio)
+$ curl -s https://www.linkedin.com/in/yannickg10stx
+---> (LinkedIn)
 ```
 
 ```text
